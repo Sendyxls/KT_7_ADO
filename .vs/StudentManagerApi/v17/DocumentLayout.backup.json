@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miska\\source\\repos\\StudentManagerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9E8E28-97EA-4B17-B6CC-8C2B15CCC7E6}|StudentManagerApi\\StudentManagerApi.csproj|c:\\users\\miska\\source\\repos\\studentmanagerapi\\studentmanagerapi\\studentmanagerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ED9E8E28-97EA-4B17-B6CC-8C2B15CCC7E6}|StudentManagerApi\\StudentManagerApi.csproj|solutionrelative:studentmanagerapi\\studentmanagerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9E8E28-97EA-4B17-B6CC-8C2B15CCC7E6}|StudentManagerApi\\StudentManagerApi.csproj|c:\\users\\miska\\source\\repos\\studentmanagerapi\\studentmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9E8E28-97EA-4B17-B6CC-8C2B15CCC7E6}|StudentManagerApi\\StudentManagerApi.csproj|solutionrelative:studentmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9E8E28-97EA-4B17-B6CC-8C2B15CCC7E6}|StudentManagerApi\\StudentManagerApi.csproj|c:\\users\\miska\\source\\repos\\studentmanagerapi\\studentmanagerapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9E8E28-97EA-4B17-B6CC-8C2B15CCC7E6}|StudentManagerApi\\StudentManagerApi.csproj|solutionrelative:studentmanagerapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9E8E28-97EA-4B17-B6CC-8C2B15CCC7E6}|StudentManagerApi\\StudentManagerApi.csproj|c:\\users\\miska\\source\\repos\\studentmanagerapi\\studentmanagerapi\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9E8E28-97EA-4B17-B6CC-8C2B15CCC7E6}|StudentManagerApi\\StudentManagerApi.csproj|solutionrelative:studentmanagerapi\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9E8E28-97EA-4B17-B6CC-8C2B15CCC7E6}|StudentManagerApi\\StudentManagerApi.csproj|c:\\users\\miska\\source\\repos\\studentmanagerapi\\studentmanagerapi\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9E8E28-97EA-4B17-B6CC-8C2B15CCC7E6}|StudentManagerApi\\StudentManagerApi.csproj|solutionrelative:studentmanagerapi\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9E8E28-97EA-4B17-B6CC-8C2B15CCC7E6}|StudentManagerApi\\StudentManagerApi.csproj|c:\\users\\miska\\source\\repos\\studentmanagerapi\\studentmanagerapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9E8E28-97EA-4B17-B6CC-8C2B15CCC7E6}|StudentManagerApi\\StudentManagerApi.csproj|solutionrelative:studentmanagerapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentManagerApi.http",
+              "DocumentMoniker": "C:\\Users\\miska\\source\\repos\\StudentManagerApi\\StudentManagerApi\\StudentManagerApi.http",
+              "RelativeDocumentMoniker": "StudentManagerApi\\StudentManagerApi.http",
+              "ToolTip": "C:\\Users\\miska\\source\\repos\\StudentManagerApi\\StudentManagerApi\\StudentManagerApi.http*",
+              "RelativeToolTip": "StudentManagerApi\\StudentManagerApi.http*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-26T03:38:18.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\miska\\source\\repos\\StudentManagerApi\\StudentManagerApi\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagerApi\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\miska\\source\\repos\\StudentManagerApi\\StudentManagerApi\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagerApi\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:33:06.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miska\\source\\repos\\StudentManagerApi\\StudentManagerApi\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerApi\\Program.cs",
+              "ToolTip": "C:\\Users\\miska\\source\\repos\\StudentManagerApi\\StudentManagerApi\\Program.cs",
+              "RelativeToolTip": "StudentManagerApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:32:32.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\miska\\source\\repos\\StudentManagerApi\\StudentManagerApi\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagerApi\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\miska\\source\\repos\\StudentManagerApi\\StudentManagerApi\\StudentRepository.cs",
+              "RelativeToolTip": "StudentManagerApi\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:32:06.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\miska\\source\\repos\\StudentManagerApi\\StudentManagerApi\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagerApi\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\miska\\source\\repos\\StudentManagerApi\\StudentManagerApi\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentManagerApi\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:31:25.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\miska\\source\\repos\\StudentManagerApi\\StudentManagerApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\miska\\source\\repos\\StudentManagerApi\\StudentManagerApi\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagerApi\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:27:38.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

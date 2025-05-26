@@ -1,0 +1,42 @@
+@StudentManagerApi_HostAddress = https://localhost:7059
+
+GET {{StudentManagerApi_HostAddress}}/api/students
+
+### работает
+
+
+
+POST {{StudentManagerApi_HostAddress}}/api/students
+Content-Type: application/json
+
+{
+    "firstName": "Alex",
+    "lastName": "Johnson",
+    "email": "alex.johnson@example.com",
+    "major": "Physics",
+    "enrollmentDate": "2023-09-01"
+}
+
+### работает
+
+
+@id=3
+GET {{StudentManagerApi_HostAddress}}/api/students/{{id}}
+
+### работает
+
+@id=1
+PUT {{StudentManagerApi_HostAddress}}/api/students/{{id}}
+Content-Type: application/json
+
+{
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe.updated@example.com",
+    "major": "Computer Science",
+    "enrollmentDate": "2022-09-01"
+}
+
+### работает
+

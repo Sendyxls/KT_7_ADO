@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GbAeyrEwnVj3iMHc9jUW4QVK7PmrJI4Dr2ZWwBdMjY0=",
+  "Source": "StudentManagerApi",
+  "BasePath": "_content/StudentManagerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
